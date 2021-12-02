@@ -1,2 +1,1 @@
-# pythonlab
-print("hii")
+# python
